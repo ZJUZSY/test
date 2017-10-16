@@ -9,8 +9,9 @@ function(){
 	var c = 3;
 }
 
-var new = 1;
+
 var neww = 2;
 
 var new1 = 3;
+var new11 = 4;
 
