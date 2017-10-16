@@ -9,3 +9,6 @@ function(){
 	var c = 3;
 }
 
+var new = 1;
+
+
